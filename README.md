@@ -26,7 +26,7 @@ Print the Huffman code for the string.
 
 ### Get the input String
 ```
-string = 'kabilan'
+string = 'Jeyabalan'
 ```
 ### Create tree nodes
 ```
@@ -76,8 +76,7 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![image](https://github.com/user-attachments/assets/708932e1-137d-4e25-8836-524287bd228e)
-
+![image](https://github.com/user-attachments/assets/a6c53914-363b-4daa-9a13-b1db14d5b836)
 
 ## Result:
 Thus the huffman coding was implemented to compress the data using python programming.
